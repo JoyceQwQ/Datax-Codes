@@ -1,4 +1,4 @@
-# Datax-Codes
+# Polygon Drawing on Images
 
 ### polygon_drawing.py:
 --image for the name of the image
